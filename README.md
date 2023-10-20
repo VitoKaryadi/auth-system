@@ -46,5 +46,5 @@ Bugs | Problem | Suggestion `Coming Soon!`
 
 ## Donate
 
-* [Trakteer](https://trakteer.id/vitokaryadi/tip)https://trakteer.id/vitokaryadi/tip
+* [Trakteer](https://trakteer.id/vitokaryadi/tip)
 * QRIS `Coming Soon!`
