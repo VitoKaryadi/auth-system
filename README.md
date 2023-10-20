@@ -42,10 +42,9 @@ AuthKey is a security system designed for your website needs, AuthKey is created
 
 ## Report Problem
 
-Bugs | Problem | Suggestion
-`Coming Soon!`
+Bugs | Problem | Suggestion `Coming Soon!`
 
 ## Donate
 
-* Trakteer.id
-* QRIS
+* [Trakteer](https://trakteer.id/vitokaryadi/tip)https://trakteer.id/vitokaryadi/tip
+* QRIS `Coming Soon!`
