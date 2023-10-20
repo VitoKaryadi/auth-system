@@ -1,6 +1,6 @@
 # Auth Key 
 
-<img src="https://github.com/VitoKaryadi/auth-system/blob/main/README ASSETS/authkey.png" align="right"
+<img src="https://github.com/VitoKaryadi/auth-system/blob/main/README%20ASSETS/authkey.png" align="right"
      alt="AuthKey Logo" width="120">
 
 AuthKey is a security system designed for your website needs, AuthKey is created using PHP!
@@ -13,7 +13,7 @@ AuthKey is a security system designed for your website needs, AuthKey is created
   in the form and the user has agreed
 
 <p align="center">
-  <img src="https://github.com/VitoKaryadi/auth-system/blob/c39d49decddcce1680c9093e7a842276b78290ad/README ASSETS/Screenshot%202023-10-20%20191914.png?raw=true" alt="AuthKey System" width="738">
+  <img src="https://github.com/VitoKaryadi/auth-system/blob/c39d49decddcce1680c9093e7a842276b78290ad/README%20ASSETS/Screenshot%202023-10-20%20191914.png?raw=true" alt="AuthKey System" width="738">
 </p>
 
 ## How to install AuthKey (Windows)
@@ -36,7 +36,7 @@ AuthKey is a security system designed for your website needs, AuthKey is created
      );
    ```
    <p align="center">
-        <img src="https://github.com/VitoKaryadi/auth-system/blob/main/README ASSETS/Screenshot%202023-10-20%20200211.png" alt="SQL Query" width="738">
+        <img src="https://github.com/VitoKaryadi/auth-system/blob/main/README%20ASSETS/Screenshot%202023-10-20%20200211.png" alt="SQL Query" width="738">
    </p>
 7. Open Browser then browse `http://127.0.0.1/AuthKey`
 
