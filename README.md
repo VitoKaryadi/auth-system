@@ -18,7 +18,7 @@ AuthKey is a security system designed for your website needs, AuthKey is created
 
 ## How to install AuthKey (Windows)
 
-1. Download/Clone this repository [Download Here!](https://github.com/VitoKaryadi/auth-system/archive/refs/heads/main.zip)
+1. Download/Clone this repository [Download Here!](https://github.com/VitoKaryadi/auth-system/releases/tag/v1.0)
 2. Place AuthKey Folder in Directory `C:\xampp\htdocs\AuthKey`
 3. Start Apache & MySQL on XAMPP
 4. Open phpMyAdmin `http://127.0.0.1/phpmyadmin`
